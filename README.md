@@ -1,4 +1,4 @@
-# Syth-O-Saurus
+# Synth-O-Saurus
 
 A interactive synthesizer installation with a focus for childeren.
 
